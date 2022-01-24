@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-The Purpose of this project is to use the CitiBikes riders data for the month of aug 2019 to Analyze and visualize statistics of the bikeshareing business and tohelp Kate prepare business proposal for Investor to give enough information and confidence to Invest in the city of Des Moines, Iowa.
+The Purpose of this project is to use the CitiBikes riders data for the month of aug 2019 to Analyze and visualize statistics of the bikesharing business and to help Kate prepare business proposal for Investor to give enough information and confidence to Invest in the city of Des Moines, Iowa.
 
 Full Analysis and Visualization can be found here [Link](https://public.tableau.com/app/profile/uttam.kumar4024/viz/NYC_CitiBike_Analysis_16429565724910/BikeSharingBusinessProposalforCityofDesMoines)
 
@@ -11,7 +11,7 @@ Full Analysis and Visualization can be found here [Link](https://public.tableau.
 
 ### 1. Number of Riders Including genders
 
-More than 2.3 Milions of Bike Riders are there in city of New york, that gives enough justification that this bikesharing business has very good potential and excellent field of investment. Male represents more then 65% in rental bike utilization where as Female participates with 25% and unknown gender riders is 10% of bike ride sharings.
+More than 2.3 Milions of Bike Riders are there in city of New york city metropoliton area, that gives enough justification that this bikesharing business has very good potential and excellent field of investment. Male represents more then 65% in rental bike utilization where as Female participates with 25% and unknown gender riders is 10% of bike ride sharings.
 
 ![totridergencat](https://user-images.githubusercontent.com/91766890/150718003-d1feedf2-2e2c-4cff-8212-02f24fc9c8d7.PNG)
 
@@ -53,6 +53,6 @@ Above picture shows that highest-traffic location where riders drop their bike a
 
 ## Summary
 
-In conclusion bike sharing service is remarkely popular with-in daily commuters in busy metropolitan area, where occupied real estate is densely packed and parking spaces may be scarce. The user base is mostly male daily commuters with-in business hrs, this shows that male users more reliable market for this service, However more outreah should be done to attact female riders. 
+In conclusion bike sharing service is remarkably popular with-in daily commuters in busy metropolitan area, where occupied real estate is densely packed and parking spaces may be scarce. The user base is mostly male daily commuters with-in business hrs, this shows that male users more reliable market for this service, However more outreach should be done to attract female riders.
 
 
