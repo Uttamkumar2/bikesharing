@@ -11,7 +11,7 @@ Full Analysis and Visualization can be found here [Link](https://public.tableau.
 
 ### 1. Number of Riders Including genders
 
-1. More than 2.3 Milions of Bike Riders are there in city of New york, that gives enough justification that this bikesharing business has very good potential and excellent field of investment. Male represents more then 65% in rental bike utilization where as Female participates with 25% and unknown gender riders is 10% of bike ride sharings.
+More than 2.3 Milions of Bike Riders are there in city of New york, that gives enough justification that this bikesharing business has very good potential and excellent field of investment. Male represents more then 65% in rental bike utilization where as Female participates with 25% and unknown gender riders is 10% of bike ride sharings.
 
 ![totridergencat](https://user-images.githubusercontent.com/91766890/150718003-d1feedf2-2e2c-4cff-8212-02f24fc9c8d7.PNG)
 
